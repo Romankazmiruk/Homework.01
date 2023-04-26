@@ -1,0 +1,15 @@
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\bin\Debug\net6.0\Homeworks.exe
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\bin\Debug\net6.0\Homeworks.deps.json
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\bin\Debug\net6.0\Homeworks.runtimeconfig.json
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\bin\Debug\net6.0\Homeworks.dll
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\bin\Debug\net6.0\Homeworks.pdb
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\obj\Debug\net6.0\Homeworks.csproj.AssemblyReference.cache
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\obj\Debug\net6.0\Homeworks.GeneratedMSBuildEditorConfig.editorconfig
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\obj\Debug\net6.0\Homeworks.AssemblyInfoInputs.cache
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\obj\Debug\net6.0\Homeworks.AssemblyInfo.cs
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\obj\Debug\net6.0\Homeworks.csproj.CoreCompileInputs.cache
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\obj\Debug\net6.0\Homeworks.dll
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\obj\Debug\net6.0\refint\Homeworks.dll
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\obj\Debug\net6.0\Homeworks.pdb
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\obj\Debug\net6.0\Homeworks.genruntimeconfig.cache
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\obj\Debug\net6.0\ref\Homeworks.dll
