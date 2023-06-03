@@ -1,0 +1,191 @@
+﻿// Задача 47. Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
+
+// m = 3, n = 4.
+
+// 0,5 7 -2 -0,2
+
+// 1 -3,3 8 -9,9
+
+// 8 7,8 -7,1 9
+
+
+
+// double [,] Create2DRandomArray (int rows, int colums)
+// {
+//     double[,] array = new double[rows, colums];
+//     for(int i = 0; i < rows; i++)
+//     {
+//         for (int j = 0; j < colums; j++)
+//         {
+//             array[i,j] = Math.Round(new Random().NextDouble(),1) + new Random().Next(1,99);
+//         }
+//     }
+//     return array;
+
+// }
+
+// void Print2DArray(double[,] array)
+// {
+//     for(int i = 0; i < array.GetLength(0);i++)
+//     {
+//             for(int j = 0; j < array.GetLength(1);j++)
+//             {
+//                 Console.Write(array[i,j]+"; ");
+//             }
+//             Console.WriteLine();
+
+//     }
+// }
+
+// Console.WriteLine("Input rows ");
+// int rows = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Input colums");
+// int colums = Convert.ToInt32(Console.ReadLine());
+
+// Print2DArray(Create2DRandomArray(rows,colums));
+
+
+
+// Задача 50. Напишите программу, которая на вход принимает позиции элемента в двумерном массиве, и возвращает значение этого элемента или же указание, что такого элемента нет.
+
+// Например, задан массив:
+
+// 1 4 7 2
+
+// 5 9 2 3
+
+// 8 4 2 4
+
+// 17 -> такого числа в массиве нет
+
+
+// int [,] Create2DRandomArray (int rows, int colums, int MinValue, int maxValue)
+// {
+//     int[,] array = new int[rows, colums];
+//     for(int i = 0; i < rows; i++)
+//     {
+//         for (int j = 0; j < colums; j++)
+//         {
+//             array[i,j] = new Random().Next(MinValue, maxValue);
+//         }
+//     }
+//     return array;
+
+// }
+
+// void Print2DArray(int[,] array)
+// {
+//     for(int i = 0; i < array.GetLength(0);i++)
+//     {
+//             for(int j = 0; j < array.GetLength(1);j++)
+//             {
+//                 Console.Write(array[i,j]+" ");
+//             }
+//             Console.WriteLine();
+
+//     }
+// }
+
+
+// void FindElemnt (int [,] array)
+// {
+//     Console.WriteLine("Input number of row ");
+//     int row = Convert.ToInt32(Console.ReadLine());
+//     Console.WriteLine("Input number of colum");
+//     int colum = Convert.ToInt32(Console.ReadLine());
+//     if (row <= array.GetLength(0) && row >= 0 && colum <= array.GetLength(1) && colum >=0 )
+//     Console.Write($"Элемент с индексами {row}, {colum} -> {array[row,colum]}");
+//     else Console.Write($"Такого элемента нет");
+// }
+
+
+
+
+
+
+// Console.WriteLine("Input rows ");
+// int rows = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Input colums");
+// int colums = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Input min");
+// int min = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Input max");
+// int max = Convert.ToInt32(Console.ReadLine());
+
+
+// int [,] myArray = Create2DRandomArray(rows,colums,min,max);
+// Print2DArray (myArray);
+// FindElemnt (myArray);
+
+
+
+// Задача 52. Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
+
+// Например, задан массив:
+// 1 4 7 2
+// 5 9 2 3
+// 8 4 2 4
+// Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3.
+
+
+
+
+// int [,] Create2DRandomArray (int rows, int colums, int MinValue, int maxValue)
+// {
+//     int[,] array = new int[rows, colums];
+//     for(int i = 0; i < rows; i++)
+//     {
+//         for (int j = 0; j < colums; j++)
+//         {
+//             array[i,j] = new Random().Next(MinValue, maxValue);
+//         }
+//     }
+//     return array;
+
+// }
+
+// void Print2DArray(int[,] array)
+// {
+//     for(int i = 0; i < array.GetLength(0);i++)
+//     {
+//             for(int j = 0; j < array.GetLength(1);j++)
+//             {
+//                 Console.Write(array[i,j]+" ");
+//             }
+//             Console.WriteLine();
+
+//     }
+// }
+
+// void Average (int [,] array)
+// {
+    
+//     for(int j = 0; j < array.GetLength(0);j++)
+//     {
+//         double result = 0;
+//             for(int i = 0; i < array.GetLength(1);i++)
+//             {
+//                 result = result + array[i,j]; 
+//                             }
+//             Console.Write($" {Math.Round(result/array.GetLength(0), 2)} ");
+
+
+//     }
+// }
+
+
+// Console.WriteLine("Input rows ");
+// int rows = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Input colums");
+// int colums = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Input min");
+// int min = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Input max");
+// int max = Convert.ToInt32(Console.ReadLine());
+
+
+// int [,] myArray = Create2DRandomArray(rows,colums,min,max);
+// Print2DArray (myArray);
+// Average(myArray);
+
+
