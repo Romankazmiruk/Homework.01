@@ -160,10 +160,10 @@
 // void Average (int [,] array)
 // {
     
-//     for(int j = 0; j < array.GetLength(0);j++)
+//     for(int j = 0; j < array.GetLength(1);j++)
 //     {
 //         double result = 0;
-//             for(int i = 0; i < array.GetLength(1);i++)
+//             for(int i = 0; i < array.GetLength(0);i++)
 //             {
 //                 result = result + array[i,j]; 
 //                             }
@@ -187,5 +187,7 @@
 // int [,] myArray = Create2DRandomArray(rows,colums,min,max);
 // Print2DArray (myArray);
 // Average(myArray);
+
+
 
 
