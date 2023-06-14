@@ -1,0 +1,15 @@
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\Homework9\obj\Debug\net6.0\Homework9.csproj.AssemblyReference.cache
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\Homework9\obj\Debug\net6.0\Homework9.GeneratedMSBuildEditorConfig.editorconfig
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\Homework9\obj\Debug\net6.0\Homework9.AssemblyInfoInputs.cache
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\Homework9\obj\Debug\net6.0\Homework9.AssemblyInfo.cs
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\Homework9\obj\Debug\net6.0\Homework9.csproj.CoreCompileInputs.cache
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\Homework9\bin\Debug\net6.0\Homework9.exe
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\Homework9\bin\Debug\net6.0\Homework9.deps.json
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\Homework9\bin\Debug\net6.0\Homework9.runtimeconfig.json
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\Homework9\bin\Debug\net6.0\Homework9.dll
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\Homework9\bin\Debug\net6.0\Homework9.pdb
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\Homework9\obj\Debug\net6.0\Homework9.dll
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\Homework9\obj\Debug\net6.0\refint\Homework9.dll
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\Homework9\obj\Debug\net6.0\Homework9.pdb
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\Homework9\obj\Debug\net6.0\Homework9.genruntimeconfig.cache
+E:\учеба geekbraibs\3. Знвкомство с языками программирования\1 семинар\Seminars#\Homeworks\Homework9\obj\Debug\net6.0\ref\Homework9.dll
